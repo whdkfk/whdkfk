@@ -1,7 +1,3 @@
-
-<!--
-
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=whdkfk&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/whdkfk"
@@ -9,5 +5,3 @@
     height="120"
   />
 </a>
-  
--->
